@@ -1,1 +1,1 @@
-# Learning on Graphs and Geomtry @ Oxford
+# Learning on Graphs and Geometry @ Oxford
