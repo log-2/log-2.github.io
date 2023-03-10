@@ -3,7 +3,7 @@ layout: default
 meta-description: "DeFOx: Decentralised Finance Research Group at Oxford"
 ---
 
-# LoG
+# LoG$^2$
 The "Learning on Graphs and Geometry" reading group at Oxford University is a forum for discussing recent advances in the field of geometric deep learning, which lies at the intersection of machine learning and geometry. The group focuses on exploring the theoretical foundations and practical applications of graph neural networks, manifold learning, and other techniques for processing and analyzing data with a non-Euclidean structure. Members of the group include researchers and graduate students from various departments, including computer science, mathematics, and engineering, who share an interest in developing novel machine learning methods for understanding complex data sets with graph or geometric structure.
 
 
