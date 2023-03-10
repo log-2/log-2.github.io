@@ -1,3 +1,1 @@
-# Decentralised Finance Recsearch Group
-## Oxford-Man Institute
-## University of Oxford
+# Learning on Graphs and Geomtry @ Oxford
