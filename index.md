@@ -53,9 +53,6 @@ The "Learning on Graphs and Geometry" reading group at Oxford University is a fo
 
 # About 
 
-**Organizers (Faculty):** <a href="https://www.stats.ox.ac.uk/~cucuring/">Mihai Cucuringu</a>, <a href="https://www0.maths.ox.ac.uk/people/faycal.drissi">Fayçal Drissi</a>, <a href="https://www.maths.ox.ac.uk/people/deborah.miori">Deborah Miori</a>, <a href="https://www.maths.ox.ac.uk/people/marcello.monga">Marcello Monga</a>
+**Organisers (Faculty):** <a href="https://www.cs.ox.ac.uk/people/michael.bronstein/">Micheal Bronstein</a>, <a href="https://www.stats.ox.ac.uk/~cucuring/">Mihai Cucuringu</a>, <a href="https://web.media.mit.edu/~xdong/">Xiaowen Dong</a>, <a href="https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/">Ismail Ilkan Ceylan</a>, <a href="https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/"><a href="https://www.maths.ox.ac.uk/people/renaud.lambiotte">Renaud Lambiotte</a>
 
-**Organizers (Students):**
-
-**Join us**:
-Participants can join to receive notifications about the seminar series, click <a href="mailto:mihai.cucuringu@stats.ox.ac.uk">here</a> to send a request.
+**Organisers (Students):** Álvaro Arroyo, Shazia Babul, Federico Barbero, Haitz Sáez de Ocariz Borde, Yixuan He
