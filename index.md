@@ -3,8 +3,8 @@ layout: default
 meta-description: "DeFOx: Decentralised Finance Research Group at Oxford"
 ---
 
-# DeFOx
-Technology is reshaping the future of the financial landscape and challengin traditional stakeholders. The aim of DeFOx is to discuss and promote academic and industrial work adressing the emerging challenges in finance. DeFOx focuses the attention on the recent and cutting-edge contributions to topics in decentralised finance and financial technology: economics, microstructure, models of liquidity taking and making, and new design paradigms that can help lay the foundations for the future fianncial landscape. 
+# LoG
+The "Learning on Graphs and Geometry" reading group at Oxford University is a forum for discussing recent advances in the field of geometric deep learning, which lies at the intersection of machine learning and geometry. The group focuses on exploring the theoretical foundations and practical applications of graph neural networks, manifold learning, and other techniques for processing and analyzing data with a non-Euclidean structure. Members of the group include researchers and graduate students from various departments, including computer science, mathematics, and engineering, who share an interest in developing novel machine learning methods for understanding complex data sets with graph or geometric structure.
 
 
 
@@ -51,12 +51,11 @@ Technology is reshaping the future of the financial landscape and challengin tra
 </div>
 {% endfor %}
 
-# About DeFOx
+# About 
 
-**News**:
-* News incoming.
+**Organizers (Faculty):** <a href="https://www.stats.ox.ac.uk/~cucuring/">Mihai Cucuringu</a>, <a href="https://www0.maths.ox.ac.uk/people/faycal.drissi">Fayçal Drissi</a>, <a href="https://www.maths.ox.ac.uk/people/deborah.miori">Deborah Miori</a>, <a href="https://www.maths.ox.ac.uk/people/marcello.monga">Marcello Monga</a>
 
-**Organizers:** <a href="https://www.stats.ox.ac.uk/~cucuring/">Mihai Cucuringu</a>, <a href="https://www0.maths.ox.ac.uk/people/faycal.drissi">Fayçal Drissi</a>, <a href="https://www.maths.ox.ac.uk/people/deborah.miori">Deborah Miori</a>, <a href="https://www.maths.ox.ac.uk/people/marcello.monga">Marcello Monga</a>
+**Organizers (Students):**
 
 **Join us**:
 Participants can join to receive notifications about the seminar series, click <a href="mailto:mihai.cucuringu@stats.ox.ac.uk">here</a> to send a request.
