@@ -9,25 +9,6 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     
-    <script type="text/x-mathjax-config">
-      MathJax.Hub.Config({
-        tex2jax: {
-          inlineMath: [ ['$$','$$'], ["\\(","\\)"] ],
-          displayMath: [ ['$$','$$'], ["\\(","\\)"] ],
-        },
-        TeX: {
-          Macros: {
-            bra: ["\\langle{#1}|", 1],
-            ket: ["|{#1}\\rangle", 1],
-            braket: ["\\langle{#1}\\rangle", 1],
-            bk: ["\\langle{#1}|{#2}|{#3}\\rangle", 3]
-         }
-       }
-      });
-    </script>
-
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML' async></script>
-
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
