@@ -53,7 +53,6 @@ The **Learning on Graphs and Geometry** reading group at the University of Oxfor
 
 # About 
 
-**Organisers (Faculty):** <a href="https://www.cs.ox.ac.uk/people/michael.bronstein/">Michael Bronstein</a>, <a href="https://www.stats.ox.ac.uk/~cucuring/">Mihai Cucuringu</a>, <a href="https://web.media.mit.edu/~xdong/">Xiaowen Dong</a>, <a href="https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/">Ismail Ilkan Ceylan</a>, <a href="https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/"><a href="https://www.maths.ox.ac.uk/people/renaud.lambiotte">Renaud Lambiotte</a>
+**Organisers (Faculty):** <a href="https://www.cs.ox.ac.uk/people/michael.bronstein/">Michael Bronstein</a>, <a href="https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/">Ismail Ilkan Ceylan</a>, <a href="https://www.stats.ox.ac.uk/~cucuring/">Mihai Cucuringu</a>, <a href="https://web.media.mit.edu/~xdong/">Xiaowen Dong</a>, <a href="https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/"><a href="https://www.maths.ox.ac.uk/people/renaud.lambiotte">Renaud Lambiotte</a>
 
-**Organisers (Students):** Álvaro Arroyo, Shazia Babul, Federico Barbero, Ben Finkelshtein, Emily Jin, 
- Yixuan He, Haitz Sáez de Ocáriz Borde
+**Organisers (Students):** Álvaro Arroyo, Shazia Babul, Federico Barbero, Ben Finkelshtein, Yixuan He, Emily Jin, Haitz Sáez de Ocáriz Borde
