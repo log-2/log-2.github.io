@@ -8,7 +8,7 @@ The **Learning on Graphs and Geometry** seminar series at the University of Oxfo
 
 The seminar series takes place biweekly on Thursday 14:00-15:00 in the Mathematical Institute (Andrew Wiles building). To join online, please use the Zoom link <a href="https://us06web.zoom.us/j/86881074813?pwd=UEpYU1UyTTF3a3kwL3F5VkFjdkZ6QT09">here</a>.
 
-To subscribe to our mailing list, you can send an email <a href="log2-subscribe@maillist.ox.ac.uk">here</a>. 
+To subscribe to our mailing list, you can send an email <a href="mailto: log2-subscribe@maillist.ox.ac.uk">here</a>. 
 
 
 
