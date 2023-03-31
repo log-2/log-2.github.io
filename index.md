@@ -1,6 +1,6 @@
 ---
 layout: default
-meta-description: "LoG$^\text{2}$: Learning on Graphs and Geometry @ Oxford"
+meta-description: "Oxford - Learning on Graphs and Geometry"
 ---
 
 # LoG$^\textbf{2}$ @ Oxford
