@@ -1,15 +1,15 @@
 - type: Future Talks
   members:
-     - speaker: Chaitanya K. Joshi (University of Cambridge)
-        date: May 11, 2023
-        title: "TBC"
-        abstract: ""
-        bio: "https://www.chaitjo.com/"
-      - speaker: Csaba Toth (University of Oxford)
-        date: May 25, 2023
-        title: "TBC"
-        abstract: ""
-        bio: ""
+    - speaker: Chaitanya K. Joshi (University of Cambridge)
+      date: May 11, 2023
+      title: "TBC"
+      abstract: ""
+      bio: "https://www.chaitjo.com/"
+    - speaker: Csaba Toth (University of Oxford)
+      date: May 25, 2023
+      title: "TBC"
+      abstract: ""
+      bio: ""
       
 - type: Past Talks
   members:
