@@ -1,15 +1,12 @@
 - type: Future Talks
   members:
-    - speaker: Chaitanya K. Joshi (University of Cabridge)
+    - speaker: Chaitanya K. Joshi (University of Cambridge)
       date: May 11, 2023
       title: "TBC"
-      #abstract: "In this talk I will provide an overview on the over-squashing phenomenon for Message Passing Neural Networks (MPNN) and on different strategies that have been proposed to tackle this problem that fall under the class of graph-rewiring techniques. I will start by discussing existing works in the literature that have shaped the problem. I will then go through a recent paper where we provide a more rigorous theoretical understanding of over-squashing, connecting it to classical random-walk properties of the graph. This allows us to draw a unified framework to justify why different rewiring operations studied thus far, do indeed help mitigate over-squashing. I will then discuss a new work where we introduce notions of dynamic edge addition and delay mechanism, resulting in a novel way of treating the underlying graph which can enhance any existing MPNN and achieve strong performances on long-range tasks. Finally, I will try to focus on the bigger picture and on why I think these directions of research are important to understand if Graph Neural Networks are here to stay or not."
       bio: "https://www.chaitjo.com/"
     - speaker: Csaba Toth (University of Oxford)
       date: May 25, 2023
       title: "TBC"
-      #abstract: "In this talk I will provide an overview on the over-squashing phenomenon for Message Passing Neural Networks (MPNN) and on different strategies that have been proposed to tackle this problem that fall under the class of graph-rewiring techniques. I will start by discussing existing works in the literature that have shaped the problem. I will then go through a recent paper where we provide a more rigorous theoretical understanding of over-squashing, connecting it to classical random-walk properties of the graph. This allows us to draw a unified framework to justify why different rewiring operations studied thus far, do indeed help mitigate over-squashing. I will then discuss a new work where we introduce notions of dynamic edge addition and delay mechanism, resulting in a novel way of treating the underlying graph which can enhance any existing MPNN and achieve strong performances on long-range tasks. Finally, I will try to focus on the bigger picture and on why I think these directions of research are important to understand if Graph Neural Networks are here to stay or not."
-      #bio: "https://francescodgv.github.io/"
       
 - type: Past Talks
   members:
