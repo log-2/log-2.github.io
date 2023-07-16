@@ -1,5 +1,14 @@
 - type: Future Talks
   members:
+
+      
+- type: Past Talks
+  members:
+    - speaker: Bastian Rieck (Helmholtz Zentrum München)
+      date: June 15, 2023
+      title: "Curvature for Graph Learning"
+      abstract: "Curvature bridges geometry and topology, using local information to derive global statements. While well-known in a differential topology context, it was recently extended to the domain of graphs. In fact, graphs give rise to various notions of curvature, which differ in expressive power and purpose. We will give a brief overview of curvature in graphs, define some relevant concepts, and show their utility for data science and machine learning applications. In particular, we shall discuss two applications: first, the use of curvature to *distinguish* between different models for synthesising new graphs from some unknown distribution; second, a novel *framework* for defining curvature for hypergraphs, whose structural properties require a more generic setting. We will also describe new applications that are specifically geared towards a treatment by curvature, thus underlining the utility of this concept for data science."
+      bio: "https://bastian.rieck.me/"
     - speaker: Chaitanya K. Joshi (University of Cambridge)
       date: May 11, 2023
       title: "On the Expressive Power of Geometric Graph Neural Networks"
@@ -10,9 +19,6 @@
       title: "Capturing Graphs with Hypo-Elliptic Diffusions"
       abstract: "Convolutional layers within graph neural networks operate by aggregating information about local neighbourhood structures; one common way to encode such substructures is through random walks. The distribution of these random walks evolves according to a diffusion equation defined using the graph Laplacian. We extend this approach by leveraging classic mathematical results about hypo-elliptic diffusions. This results in a novel tensor-valued graph operator, which we call the hypo-elliptic graph Laplacian. We provide theoretical guarantees and efficient low-rank approximation algorithms. In particular, this gives a structured approach to capture long-range dependencies on graphs that is robust to pooling. Besides the attractive theoretical properties, our experiments show that this method competes with graph transformers on datasets requiring long-range reasoning but scales only linearly in the number of edges as opposed to quadratically in nodes."
       bio: "https://www.maths.ox.ac.uk/people/csaba.toth"
-      
-- type: Past Talks
-  members:
     - speaker: Michael Hutchinson (University of Oxford)
       date: April 27, 2023
       title: "Riemannian Score-Based Generative Modelling"
