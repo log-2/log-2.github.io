@@ -1,13 +1,19 @@
 - type: Future Talks
   members:
+    - speaker: Jian Tang (Mila)
+      date: November 24, 2023
+      title: "Geometric Deep Learning for Drug Discovery"
+      abstract: "Drug discovery is a very long and expensive process, taking on average more than 10 years and costing $2.5B to develop a new drug. Artificial intelligence has the potential to significantly accelerate the process of drug discovery by extracting evidence from a huge amount of biomedical data and hence revolutionizes the entire pharmaceutical industry. In particular, graph representation learning and geometric deep learning--a fast growing topic in the machine learning and data mining community focusing on deep learning for graph-structured and 3D data---has seen great opportunities for drug discovery as many data in the domain are represented as graphs or 3D structures (e.g. molecules, proteins, biomedical knowledge graphs). In this talk, I will introduce our recent progress on geometric deep learning for drug discovery, in particular, pretraining methods for learning 3D molecular structure geometric encoder and generative diffusion models for 3D molecule generation."
+      bio:
+
+      
+- type: Past Talks
+  members:
     - speaker: Konstantin Rusch (ETH Zurich)
       date: November 16, 2023
       title: "Physics-inspired Machine Learning"
       abstract: "Combining physics with machine learning is a rapidly growing field of research. Thereby, most work focuses on leveraging machine learning methods to solve problems in physics. Here, however, we focus on the converse, i.e., physics-inspired machine learning, which can be described as incorporating structure from physical systems into machine learning methods to obtain models with better inductive biases. More concretely, we propose several physics-inspired deep learning architectures for sequence modeling based on nonlinear coupled oscillators, Hamiltonian systems, and multi-scale dynamical systems. The proposed architectures tackle central problems in the field of recurrent sequence modeling, namely the vanishing and exploding gradients problem as well as the issue of insufficient expressive power. Moreover, we discuss physics-inspired learning on graphs, wherein the dynamics of the message-passing propagation are derived from physical systems. We further prove that these methods mitigate the over-smoothing issue, thereby enabling the construction of deep graph neural networks (GNNs). We extensively test all proposed methods on a variety of versatile synthetic and real-world datasets, ranging from image recognition, speech recognition, medical applications, and scientific computing for sequence models, to citation networks, computational chemistry applications, and networks of articles and websites for graph learning models."
       bio:
-      
-- type: Past Talks
-  members:
     - speaker: Bastian Rieck (Helmholtz Zentrum München)
       date: June 15, 2023
       title: "Curvature for Graph Learning"
