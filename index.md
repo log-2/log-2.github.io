@@ -7,9 +7,6 @@ The **Learning on Graphs and Geometry** seminar series at the University of Oxfo
 
 The seminar series will normally take place biweekly during term time. Please look out for talk announcements for the exact time and location. To receive announcements, please subscribe to our mailing list by sending an email <a href="mailto: log2-subscribe@maillist.ox.ac.uk">here</a>. 
 
-To join online, please use the Zoom link <a href="https://us06web.zoom.us/j/86881074813?pwd=UEpYU1UyTTF3a3kwL3F5VkFjdkZ6QT09">here</a>.
-
-
 
 
 {% for category in site.data.talks %}
