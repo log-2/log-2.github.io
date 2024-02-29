@@ -1,6 +1,6 @@
 - type: Future Talks
   members:
-  - speaker: Justin Curry (SUNY)
+    - speaker: Justin Curry (SUNY)
       date: March 4, 2024
       title: "Equivariance, Topology, and Sheaves for Machine Learning"
       abstract: "In this lecture, I will start by reconsidering the question of equivariance for the segmentation/partition function for labelling images. This will lead naturally to the study of braid groups and an intuitive introduction to Algebraic Topology. After reviewing the historical origins of topology in the work of Riemann and Betti, I will outline how Topological Data Analysis (TDA) is an effective featurization engine for shape in data, requiring new mathematics to understand its statistical properties. Finally, I will show how topology naturally leads to sheaf theory, which was recently used by Bodnar et Bronstein to address the problem of oversmoothing in heterophilic graphs. By the end of this talk, you will have an intuitive understanding of topology and sheaves, and will hopefully be inspired to integrate TDA and sheaves with Geometric Deep Learning in order to develop new state-of-the-art methods."
