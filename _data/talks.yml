@@ -2,18 +2,19 @@
   members:
     - speaker: Johannes Brandstetter (JKU Linz)
       date: March 28, 2024
-      title: "TBC"
-      abstract: ""
+      title: "Geometry-Informed Neural Networks"
+      abstract: "We introduce the concept of geometry-informed neural networks (GINNs), which encompass (i) learning under geometric constraints, (ii) neural fields as a suitable representation, and (iii) generating diverse solutions to under-determined systems often encountered in geometric tasks. Notably, the GINN formulation does not require training data, and as such can be considered generative modeling driven purely by constraints. We add an explicit diversity loss to mitigate mode collapse. We consider several constraints, in particular, the connectedness of components which we convert to a differentiable loss through Morse theory. Experimentally, we demonstrate the efficacy of the GINN learning paradigm across a range of two and three-dimensional scenarios with increasing levels of complexity."
       bio:
-    - speaker: Christian Koke (TUM)
-      date: March 21, 2024
-      title: "TBC"
-      abstract: ""
-      bio:
+
 
       
 - type: Past Talks
   members:
+    - speaker: Christian Koke (TUM)
+      date: March 21, 2024
+      title: "Graph Neural Networks via Complex Analysis and Operator Theory"
+      abstract: "Spectral Convolutional Networks were among the first successfully developed graph learning architectures and continue to provide state of the art results on a variety of tasks to this day. However, conventional wisdom within the graph learning community dictates that their utility is limited: On the one hand, they supposedly cannot be extended to directed graphs as the standard underlying Graph-Fourier-Transform is not well defined for such directed graphs. On the other hand, it is believed that after training, spectral methods do not generalize to previously unseen graphs, as spectral quantities may vary significantly between such graphs. In this talk, we show both of these assumptions to be in error: Making use of certain advanced tools from complex analysis and spectral theory, we first extend spectral convolutions to arbitrary directed graphs. We then investigate the influence of the basis used to express the developed spectral filters and discuss the interplay with characteristic operators on which networks are based. In particular, we develop an architecture yielding state of the art performance for node classification on heterophilic graphs. Finally, we show that by using a specific class of complex filter functions, networks can be rendered transferable between distinct graphs describing the same underlying object at different resolutions. As will be discussed making use of a triangle-inequality argument, this then indeed establishes the ability to generalize to generic previously unseen graphs."
+      bio:
     - speaker: Joey Bose (Oxford)
       date: March 6, 2024
       title: "Building Diffusion Models and Flow Matching for Geometric Data"
