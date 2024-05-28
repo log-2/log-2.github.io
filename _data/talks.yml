@@ -1,13 +1,13 @@
 - type: Future Talks
   members:
+
+- type: Past Talks
+  members:
     - speaker: Ivan Marisca (USI Lugano)
       date: May 23, 2024
       title: "Graph Deep Learning for Irregular Spatiotemporal Data"
       abstract: "Irregular spatiotemporal data are characterized by asynchronous observations occurring at different times and spatial locations. These data are commonly encountered in sensor networks, such as traffic management systems or online social networks. Unlike their regular counterparts, the inherent irregularities in the data prevent the use of traditional methods for discrete-time sequences and Euclidean spaces. Instead, in the spatial domain, we can often rely on relational information between locations, such as distances or similarities among observations. In this talk, we will see how graph deep learning helps us exploit these relational dependencies for both interpolation and extrapolation tasks. We will discuss methods for reconstructing missing data from a restricted set of valid observations by enforcing spatiotemporal consistency and examine forecasting methodologies to predict future observations from sparse data."
-      bio:
-      
-- type: Past Talks
-  members:
+      bio:  
     - speaker: Guillermo Ortiz (DeepMind)
       date: May 16, 2024
       title: "Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models"
