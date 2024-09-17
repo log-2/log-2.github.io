@@ -1,10 +1,10 @@
 - type: Future Talks
   members:
     - speaker: Luca Cosmo (Ca’ Foscari University of Venice)
-        date: Sep 19, 2024
-        title: "Generative Methods for Enhanced and Interpretable Graph Neural Networks"
-        abstract: "In this talk, we will discuss our recent work leveraging generative techniques to enhance the performance and interpretability of graph neural networks. First, we will introduce a method that models the unknown graph underlying a set of entities as a first-order probabilistic graph, which, when combined with a GCN, enables similar entities to communicate and improve the predictive task. Next, we will demonstrate how redefining graph convolution can add interpretability by learning the distribution of key local substructures. Finally, we will explore an alternative approach to graph generative modeling, where we use a truncated eigenbasis of the graph Laplacian, inspired by shape analysis, and apply a denoising diffusion probabilistic model that can later be conditioned on both eigenvalues and partial eigenvectors."
-        bio:  "https://www.dais.unive.it/~cosmo/"
+      date: Sep 19, 2024
+      title: "Generative Methods for Enhanced and Interpretable Graph Neural Networks"
+      abstract: "In this talk, we will discuss our recent work leveraging generative techniques to enhance the performance and interpretability of graph neural networks. First, we will introduce a method that models the unknown graph underlying a set of entities as a first-order probabilistic graph, which, when combined with a GCN, enables similar entities to communicate and improve the predictive task. Next, we will demonstrate how redefining graph convolution can add interpretability by learning the distribution of key local substructures. Finally, we will explore an alternative approach to graph generative modeling, where we use a truncated eigenbasis of the graph Laplacian, inspired by shape analysis, and apply a denoising diffusion probabilistic model that can later be conditioned on both eigenvalues and partial eigenvectors."
+      bio:  "https://www.dais.unive.it/~cosmo/"
 
 - type: Past Talks
   members:
