@@ -1,5 +1,10 @@
 - type: Future Talks
   members:
+    - speaker: Sam Adam-Day (University of Oxford)
+      date: Oct 30, 2024
+      title: "Asymptotically useless? The outputs of these GNNs converge to a constant function"
+      abstract: "We study the asymptotic behaviour of GNN classifiers across a range of distributions and show that a wide class of models converge asymptotically almost surely to a constant function. This establishes a new uniform upper bound of the expressiveness of these architectures. The prominent features of our work are as follows. Our results are stated in terms of a new term language, which captures many message passing neural networks, transformer architectures, and arbitrary combinations of architectural variations, like skip connections and global readout. The distributions studied include the sparse Erdös–Rényi and Barabási–Albert models. These are closer to real-world distributions than those which have received the most attention in this area. The core of our theoretical work is an almost-sure quantifier elimination result, which is of independent interest."
+      bio: "https://samadamday.com/"
 
 
 - type: Past Talks
