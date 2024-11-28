@@ -1,14 +1,18 @@
 - type: Future Talks
   members:
+    - speaker: Alex Tong (Mila)
+      date: Nov 28, 2024
+      title: Applications of graph representations to cells and proteins
+      abstract: "Graphs are widely applicable to problems in the biological domain. In this talk I will discuss two application areas. First, the use of graph-based dimensionality reduction techniques for exploratory single-cell analysis. Graph-based dimensionality reduction techniques such as T-SNE, UMAP, and diffusion maps are almost universal in analysis of single cell data. I will discuss how these methods are used in practice, how they work, and where they may fail. Second I will discuss the use of graph-based methods in protein folding and design tasks. Graph-based representations of proteins have been a key drive behind the most recent Nobel prize in chemistry. I will discuss how these representations work and why they might be particularly effective in this application."
+      bio: "(Alex)ander Tong is a postdoctoral fellow at Mila with Yoshua Bengio, visiting postdoctoral fellow at Oxford with Michael Bronstein, cofounder of Dreamfold—a protein design startup, and incoming assistant professor at Duke University starting July 2025. Alex completed his Ph.D. in Computer Science at Yale University in 2021 with Smita Krishnaswamy. He is interests span generative modeling, graph signal processing, and optimal transport to understand biological systems with a focus on cells and proteins. https://www.alextong.net/"
+
+- type: Past Talks
+  members:
     - speaker: Sam Adam-Day (University of Oxford)
       date: Oct 30, 2024
       title: "Asymptotically useless? The outputs of these GNNs converge to a constant function"
       abstract: "We study the asymptotic behaviour of GNN classifiers across a range of distributions and show that a wide class of models converge asymptotically almost surely to a constant function. This establishes a new uniform upper bound of the expressiveness of these architectures. The prominent features of our work are as follows. Our results are stated in terms of a new term language, which captures many message passing neural networks, transformer architectures, and arbitrary combinations of architectural variations, like skip connections and global readout. The distributions studied include the sparse Erdös–Rényi and Barabási–Albert models. These are closer to real-world distributions than those which have received the most attention in this area. The core of our theoretical work is an almost-sure quantifier elimination result, which is of independent interest."
       bio: "https://samadamday.com/"
-
-
-- type: Past Talks
-  members:
     - speaker: Luca Cosmo (Ca’ Foscari University of Venice)
       date: Sep 19, 2024
       title: "Generative Methods for Enhanced and Interpretable Graph Neural Networks"
